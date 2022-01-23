@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en"
+<html lang="en">
 <head>
-    <meta charset="uft-8>"
+    <meta charset="utf-8">
     <meta name="description" content="Xia Dynasty summary">
 
     <title>Xia Dynasty</title>
@@ -21,8 +21,8 @@
                 <li><a href="#accounts">Traditional Accounts</a></li>
                 <li><a href="#skepticism">Modern Skepticism</a></li>
                 <li><a href="#discoveries">Archaeological Discoveries</a></li>
-                <li><a hreft="#sovereigns">Sovereigns of the Xia Dynasty</a></li>
-                <li><a hreft="#references">References</a></li>
+                <li><a href="#sovereigns">Sovereigns of the Xia Dynasty</a></li>
+                <li><a href="#references">References</a></li>
             </ol>
         </nav>
     </header>
